@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Yefee8 _Yavuz Efe Fındıklı_
+- 👋 Hi, I’m @Yefee8 (_Yavuz Efe Fındıklı_)
 - 👀 I’m working with **Vue.js**
 - 📫 If u want to reach me you can reach me from my Instagram account(@yefee8). 
