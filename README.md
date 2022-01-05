@@ -2,7 +2,7 @@
   <img src="./yefeegif_1-min.gif">
 </p>
 <h1>👋 Hi, I’m <i><b>Yefee</b></i> and i am full/MEVN stack developer</h1>
-<h2>👀 I’m  using these techs; <br>
+<h2>🚀I’m  using these techs; <br>
 <i><b>Vue.js</b></i><br>
 <i><b>Node.js</b></i><br>
 <i><b>Nest.js</b></i><br>
