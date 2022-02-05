@@ -12,5 +12,5 @@ style="display:flex; justify-content:center; align-items:center;">
 <i><b>Vanilla JavaScript & TypeScript</b></i><br>
 <i><b>Tailwind</b></i>
 </h2>
-<h2>📫 If u want to reach me you can reach me from my Instagram account(@yefee8).</h2>
+<h2>📫 If you want to reach me, you can reach me from my Instagram account(<a href="instagram.com/yefee8/">@yefee8</a>).</h2>
 </div>
