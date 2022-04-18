@@ -1,8 +1,5 @@
 # Yefee, full-stack dev.
-![logo gif](https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif?raw=true)
-
-[![Still breathing](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR?si=9acad666e57640c9)
-
+![logo gif](https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif)
 ## techs i use;
 
 ### for front-end;
