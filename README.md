@@ -1,5 +1,7 @@
 # Yefee, full-stack dev.
-![Logo gif](https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif?raw=true)
+![logo gif](https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif?raw=true)
+
+![masterpiece](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l?si=8a1365e1952047fb)
 
 ## techs i use;
 
