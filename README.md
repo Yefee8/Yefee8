@@ -1,16 +1,16 @@
-<p align="center">
-  <img src="./yefeegif_1-min.gif">
-</p>
-<div
-style="display:flex; justify-content:center; align-items:center;">
-<h1>👋 Hi, I’m <i><b>Yefee</b></i> and i am Full stack developer</h1>
-<h2>🚀I’m  using these techs; <br>
-<i><b>Vue.js</b></i><br>
-<i><b>React.js</b></i><br>
-<i><b>Node.js</b></i><br>
-<i><b>Nest.js</b></i><br>
-<i><b>Vanilla JavaScript & TypeScript</b></i><br>
-<i><b>Tailwind</b></i>
-</h2>
-<h2>📫 If you want to reach me, you can reach me from my Instagram account(<a href="https://instagram.com/yefee8/" target="_blank">@yefee8</a>).</h2>
-</div>
+# Yefee, full-stack dev.
+(https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif?raw=true)[Logo gif]
+
+## techs i use;
+
+### for front-end;
+- React & Next.js
+- Vue.js
+- Tailwind
+- Material Ui / PrimeVue
+- Vanilla Js & Ts
+
+### for back-end;
+- Node.js & Nest.js
+- MongoDB
+- Firebase
