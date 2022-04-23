@@ -1,7 +1,7 @@
 # Yefee, full-stack dev.
-![logo gif](https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif
+![logo gif](https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif)
 
-![Discord Logo](https://seeklogo.com/images/D/discord-black-logo-733DD6B9B0-seeklogo.com.png)
+![discord](https://discord.com/users/420291800905940992)
 
 ## techs i use;
 
