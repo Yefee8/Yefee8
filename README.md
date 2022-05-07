@@ -9,7 +9,7 @@
 - React & Next.js
 - Vue.js
 - Tailwind
-- Material Ui / PrimeVue
+- Material Ui
 - Vanilla Js & Ts
 
 ### for back-end;
