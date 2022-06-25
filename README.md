@@ -13,6 +13,6 @@
 - Vanilla Js & Ts
 
 ### for back-end;
-- Node.js & Nest.js
+- Node.js
 - MongoDB
 - Firebase
