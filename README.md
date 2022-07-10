@@ -14,5 +14,6 @@
 
 ### for back-end;
 - Node.js
+- Multer
 - MongoDB
 - Firebase
