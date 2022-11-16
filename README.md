@@ -1,4 +1,4 @@
-# Yefee, full-stack dev.
+# Yefee, front-end dev.
 ![logo gif](https://github.com/Yefee8/Yefee8/blob/main/yefeegif_1-min.gif)
 
 [discord](https://discord.com/users/420291800905940992)
