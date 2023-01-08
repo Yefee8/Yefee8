@@ -8,6 +8,7 @@
 ### for front-end;
 - React & Next.js
 - Vue.js & Nuxt.js
+- React Native
 - Tailwind
 - Material Ui
 - Vanilla Js & Ts
