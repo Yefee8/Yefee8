@@ -1,6 +1,6 @@
 # Yefee, front-end dev.
 
-## Reach me
+## Contact
 [mail](mailto:findikliyavuzefe@gmail.com)
 [discord](https://discord.com/users/420291800905940992)
 
