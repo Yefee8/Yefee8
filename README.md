@@ -8,9 +8,9 @@
 
 ### front-end;
 * React
- * Next.js 
+  * Next.js 
 * Vue.js
- * Nuxt.js 
+  * Nuxt.js 
 * Astro
 * React Native
 * Tailwind
