@@ -7,8 +7,10 @@
 ## techs i use;
 
 ### front-end;
-- React & Next.js
-- Vue.js & Nuxt.js
+- React
+ - Next.js 
+- Vue.js
+ - Nuxt.js 
 - Astro
 - React Native
 - Tailwind
