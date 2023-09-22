@@ -7,18 +7,18 @@
 ## techs i use;
 
 ### front-end;
-- React
- - Next.js 
-- Vue.js
- - Nuxt.js 
-- Astro
-- React Native
-- Tailwind
-- Material Ui
-- Vanilla Js & Ts
+* React
+ * Next.js 
+* Vue.js
+ * Nuxt.js 
+* Astro
+* React Native
+* Tailwind
+* Material Ui
+* Vanilla Js & Ts
 
 ### back-end;
-- Node.js
-- MongoDB
-- Firebase
-- Multer
+* Node.js
+* MongoDB
+* Firebase
+* Multer
