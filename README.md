@@ -1,4 +1,4 @@
-# Yefee, front-end dev.
+# Yefee, full-stack web dev.
 
 ## Contact
 [mail](mailto:findikliyavuzefe@gmail.com)
