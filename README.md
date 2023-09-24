@@ -21,6 +21,6 @@
 
 ### back-end;
 * Node.js
-* MongoDB
-* Firebase
-* Multer
+ * MongoDB
+ * Firebase
+ * Multer
