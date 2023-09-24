@@ -10,13 +10,13 @@
 * React
   * Next.js
   * mjs
+  * Material Ui
 * Vue.js
   * Nuxt.js
   * mjs
 * Astro
 * React Native
 * Tailwind
-* Material Ui
 * Vanilla Js & Ts
 
 ### back-end;
