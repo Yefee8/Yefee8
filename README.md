@@ -12,12 +12,15 @@
   * Next.js
   * mjs
   * Material Ui
+  * PrimeReact
 * Vue.js
   * Nuxt.js
   * mjs
+  * PrimeVue
 * Astro
 * React Native
 * Tailwind
+* ShadcnUi
 * Vanilla Js & Ts
 
 ### back-end;
