@@ -1,13 +1,18 @@
-# Yefee, front-end & node dev.
+# Yefee, Front-end & Node developer
 [portfolio](https://portfolio-yefee8.vercel.app/)
 
 ## Contact
-[mail](mailto:findikliyavuzefe@gmail.com)
-[discord](https://discord.com/users/420291800905940992)
+[Mail](mailto:findikliyavuzefe@gmail.com)
+[Discord](https://discord.com/users/420291800905940992)
 
-## techs i use;
+## Favorite Repositories
+[Nuxt Auth](https://github.com/Yefee8/nuxt-auth)
+[Danke Seb](https://github.com/Yefee8/dankeseb)
+[And so much more, see them via my portfolio](https://github.com/Yefee8/portfolio)
 
-### front-end;
+## Techs I Use;
+
+### Front-end;
 * React
   * Next.js
   * mjs
@@ -23,7 +28,7 @@
 * ShadcnUi
 * Vanilla Js & Ts
 
-### back-end;
+### Back-end;
 * Node.js
   * Express.js
   * MongoDB
