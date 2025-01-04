@@ -8,6 +8,7 @@
 ## Favorite Repositories
 [Nuxt Auth](https://github.com/Yefee8/nuxt-auth)
 [Danke Seb](https://github.com/Yefee8/dankeseb)
+
 [And so much more, see them via my portfolio](https://github.com/Yefee8/portfolio)
 
 ## Techs I Use;
