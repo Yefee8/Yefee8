@@ -5,9 +5,11 @@
 [Mail](mailto:findikliyavuzefe@gmail.com)
 [Discord](https://discord.com/users/420291800905940992)
 
-## Favorite Repositories
+## Favorite Repositories (Doesn't include all the projects that I work on.)
 [Nuxt Auth](https://github.com/Yefee8/nuxt-auth)
 [Danke Seb](https://github.com/Yefee8/dankeseb)
+[Laflaneur](https://laflaneur.vercel.app)
+[Shoes](https://github.com/Yefee8/shoes)
 
 [And so much more, see them via my portfolio](https://github.com/Yefee8/portfolio)
 
