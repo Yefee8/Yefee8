@@ -10,7 +10,7 @@
 [Danke Seb](https://github.com/Yefee8/dankeseb)
 [Laflaneur](https://laflaneur.vercel.app)
 [Shoes](https://github.com/Yefee8/shoes)
-
+[F1 Points Simulator](https://github.com/Yefee8/f1-points-simulator)
 [And so much more, see them via my portfolio](https://github.com/Yefee8/portfolio)
 
 ## Techs I Use;
