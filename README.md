@@ -6,11 +6,12 @@
 [Discord](https://discord.com/users/420291800905940992)
 
 ## Favorite Repositories (Doesn't include all the projects that I work on.)
-[Nuxt Auth](https://github.com/Yefee8/nuxt-auth)
+[Randoovu](https://randoovu.vercel.app/)
+[F1 Points Simulator](https://github.com/Yefee8/f1-points-simulator)
 [Danke Seb](https://github.com/Yefee8/dankeseb)
+[Nuxt Auth](https://github.com/Yefee8/nuxt-auth)
 [Laflaneur](https://laflaneur.vercel.app)
 [Shoes](https://github.com/Yefee8/shoes)
-[F1 Points Simulator](https://github.com/Yefee8/f1-points-simulator)
 [And so much more, see them via my portfolio](https://github.com/Yefee8/portfolio)
 
 ## Techs I Use;
