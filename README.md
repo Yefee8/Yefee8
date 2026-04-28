@@ -33,6 +33,8 @@
 * Vanilla Js & Ts
 
 ### Back-end;
+* SQL
+ * Supabase
 * Node.js
   * Express.js
   * MongoDB
