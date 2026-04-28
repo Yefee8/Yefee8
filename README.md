@@ -34,7 +34,7 @@
 
 ### Back-end;
 * SQL
- * Supabase
+  * Supabase
 * Node.js
   * Express.js
   * MongoDB
