@@ -28,15 +28,18 @@
   * PrimeVue
 * Astro
 * React Native
-* Tailwind
+* Tailwindcss
 * ShadcnUi
-* Vanilla Js & Ts
+* Vanilla JavaScript
+* Vanilla TypeScript
+* Docker
 
 ### Back-end;
 * SQL
-  * Supabase
+* Supabase
+* MongoDB
+* Firebase
+* Docker
 * Node.js
   * Express.js
-  * MongoDB
-  * Firebase
   * Multer
